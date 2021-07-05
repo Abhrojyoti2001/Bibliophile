@@ -1,0 +1,5 @@
+numpy==1.21.0
+pandas==1.2.5
+pickl==0.1.6
+scikit-learn==0.24.1
+streamlit==0.84.0
